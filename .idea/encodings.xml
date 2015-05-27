@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/abstract-factory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/adapter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bridge" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/builder" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/command" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/composite" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/decorator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/double-checked-locking" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/facade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factory-method" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flyweight" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interpreter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iterator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mediator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/memento" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model-view-presenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/observer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prototype" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servant" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-locator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/singleton" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/state" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/strategy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/template-method" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/visitor" charset="UTF-8" />
+  </component>
+</project>
+
